@@ -1,4 +1,4 @@
-# LabeX
+# [LabeX](htpps://courageous-pies.surge.sh)
 Status do Projeto: Concluido :white_check_mark:
 
 # Descrição do Projeto
@@ -23,7 +23,7 @@ A ideia será criar uma plataforma de gerenciamento de viagens. A plataforma ter
 
 ## Deploy da Aplicação com Surge: 
 
-<courageous-pies.surge.sh>
+<htpps://courageous-pies.surge.sh>
 
 ## Tecnologias utilizadas
 
