@@ -15,7 +15,6 @@ A ideia será criar uma plataforma de gerenciamento de viagens. A plataforma ter
     -   Conseguir ver a lista de candidatos que se aplicaram para essa viagem e ainda estão pendentes
     -   Aprovar ou reprovar os candidatos para a viagem
     -   Ver lista atualizada de candidatos aprovados
-    💡 Para acessar a parte do admin, utilize o email [`astrodev@gmail.com`](mailto:astrodev@gmail.com) e a senha `123456`
 
 
 ## Login
@@ -24,7 +23,7 @@ A ideia será criar uma plataforma de gerenciamento de viagens. A plataforma ter
 
 ## Deploy da Aplicação com Surge: 
 
-courageous-pies.surge.sh
+<courageous-pies.surge.sh>
 
 ## Tecnologias utilizadas
 
